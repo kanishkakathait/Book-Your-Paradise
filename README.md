@@ -1,10 +1,10 @@
-🏝️ Book My Paradise
+🏝️ Book Your Paradise
 
 A MERN stack accommodation booking platform inspired by Airbnb, built for users to explore, book, and manage stays seamlessly.
 
 🚀 Overview
 
-Book My Paradise is a full-stack web application for booking and hosting accommodations.
+Book Your Paradise is a full-stack web application for booking and hosting accommodations.
 Users can sign up, list properties, browse stays, and make bookings through a simple, responsive interface.
 
 ✨ Key Features
