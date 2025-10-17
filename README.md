@@ -24,4 +24,3 @@ Users can sign up, list properties, browse stays, and make bookings through a si
 Frontend: React.js, TailwindCSS
 Backend: Node.js, Express.js
 Database: MongoDB
-Hosting: Vercel, AWS S3
