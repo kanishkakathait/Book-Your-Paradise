@@ -44,12 +44,11 @@ app.use("/api", bookingRoutes);
 // Running the express app
 mongoose
     .connect(process.env.MONGO_URL)
-    .then((result) => {
-        app.listen(4000);
-    })
     .then(() => {
-        console.log("Server running on port 4000");
+        console.log("Connected to MongoDB");
     })
     .catch((err) => {
         console.log(err);
     });
+
+module.exports = app;
